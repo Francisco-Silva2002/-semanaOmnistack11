@@ -1,0 +1,4 @@
+frontend/
+backend/info.txt
+backend/node_modules
+backend/src/database/db.sqlite
